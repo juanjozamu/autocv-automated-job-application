@@ -1,0 +1,26 @@
+CURRICULUM VITAE - PRUEBA
+
+Nombre: Juan Pérez
+Email: juan.perez@email.com
+Teléfono: +34 123 456 789
+
+EXPERIENCIA PROFESIONAL:
+- Desarrollador Full Stack (2020-2024)
+  * Desarrollo de aplicaciones web con React y Node.js
+  * Gestión de bases de datos MongoDB y PostgreSQL
+  * Implementación de APIs REST y GraphQL
+
+EDUCACIÓN:
+- Ingeniería Informática - Universidad Complutense Madrid (2016-2020)
+
+HABILIDADES TÉCNICAS:
+- JavaScript, TypeScript, Python
+- React, Next.js, Vue.js
+- Node.js, Express, FastAPI
+- MongoDB, PostgreSQL, MySQL
+- Docker, AWS, Git
+
+IDIOMAS:
+- Español (Nativo)
+- Inglés (Avanzado)
+- Francés (Intermedio)
